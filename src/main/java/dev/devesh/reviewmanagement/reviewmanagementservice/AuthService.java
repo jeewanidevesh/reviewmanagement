@@ -1,14 +1,13 @@
-package dev.omkar.usermanagement.service;
+package dev.devesh.reviewmanagement.reviewmanagementservice;
 
-import dev.omkar.usermanagement.Entity.User;
-import dev.omkar.usermanagement.dto.UserDto;
-import dev.omkar.usermanagement.repository.UserRepository;
+import dev.devesh.reviewmanagement.reviewmanagementrepository.UserRepository;
+import dev.devesh.reviewmanagement.reviewmanagementEntity.User;
+import dev.devesh.reviewmanagement.reviewmanagementdto.UserDto;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.MacAlgorithm;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.validator.routines.EmailValidator;
-import org.bouncycastle.jcajce.BCFKSLoadStoreParameter;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package dev.omkar.usermanagement;
+package dev.devesh.reviewmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @SpringBootApplication
 @EnableEurekaServer
-public class UserManagementApplication {
+public class ReviewManagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserManagementApplication.class, args);
+		SpringApplication.run(ReviewManagementApplication.class, args);
 	}
 
 }

@@ -1,9 +1,9 @@
-package dev.omkar.usermanagement.service;
+package dev.devesh.reviewmanagement.reviewmanagementservice;
 
 
-import dev.omkar.usermanagement.Entity.User;
-import dev.omkar.usermanagement.dto.UserDto;
-import dev.omkar.usermanagement.repository.UserRepository;
+import dev.devesh.reviewmanagement.reviewmanagementEntity.User;
+import dev.devesh.reviewmanagement.reviewmanagementdto.UserDto;
+import dev.devesh.reviewmanagement.reviewmanagementrepository.UserRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

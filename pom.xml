@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.omkar</groupId>
-	<artifactId>usermanagement-service</artifactId>
+	<artifactId>reviewmanagement-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>User Management Service</name>
 	<description>User Management Service project</description>

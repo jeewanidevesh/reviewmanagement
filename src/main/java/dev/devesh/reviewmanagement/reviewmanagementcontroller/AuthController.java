@@ -1,11 +1,10 @@
-package dev.omkar.usermanagement.controller;
+package dev.devesh.reviewmanagement.reviewmanagementcontroller;
 
-import dev.omkar.usermanagement.dto.LoginRequestDto;
-import dev.omkar.usermanagement.dto.RegisterRequestDto;
-import dev.omkar.usermanagement.dto.UserDto;
-import dev.omkar.usermanagement.service.AuthService;
+import dev.devesh.reviewmanagement.reviewmanagementdto.LoginRequestDto;
+import dev.devesh.reviewmanagement.reviewmanagementdto.RegisterRequestDto;
+import dev.devesh.reviewmanagement.reviewmanagementdto.UserDto;
+import dev.devesh.reviewmanagement.reviewmanagementservice.AuthService;
 import io.swagger.v3.oas.annotations.Operation;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

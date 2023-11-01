@@ -1,7 +1,7 @@
-package dev.omkar.usermanagement.controller;
+package dev.devesh.reviewmanagement.reviewmanagementcontroller;
 
-import dev.omkar.usermanagement.dto.UserDto;
-import dev.omkar.usermanagement.service.UserService;
+import dev.devesh.reviewmanagement.reviewmanagementdto.UserDto;
+import dev.devesh.reviewmanagement.reviewmanagementservice.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

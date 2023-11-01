@@ -1,6 +1,6 @@
-package dev.omkar.usermanagement.repository;
+package dev.devesh.reviewmanagement.reviewmanagementrepository;
 
-import dev.omkar.usermanagement.Entity.User;
+import dev.devesh.reviewmanagement.reviewmanagementEntity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package dev.omkar.usermanagement.config;
+package dev.devesh.reviewmanagement.reviewmanagementconfig;
 
 import org.springdoc.core.GroupedOpenApi;
 import org.springframework.context.annotation.Bean;

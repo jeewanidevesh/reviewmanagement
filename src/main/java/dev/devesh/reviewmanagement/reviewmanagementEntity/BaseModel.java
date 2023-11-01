@@ -1,4 +1,4 @@
-package dev.omkar.usermanagement.Entity;
+package dev.devesh.reviewmanagement.reviewmanagementEntity;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

@@ -1,6 +1,6 @@
-package dev.omkar.usermanagement.dto;
+package dev.devesh.reviewmanagement.reviewmanagementdto;
 
-import dev.omkar.usermanagement.Entity.User;
+import dev.devesh.reviewmanagement.reviewmanagementEntity.User;
 import jakarta.validation.constraints.Email;
 import lombok.Getter;
 import lombok.Setter;

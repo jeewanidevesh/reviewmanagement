@@ -1,6 +1,5 @@
-package dev.omkar.usermanagement;
+package dev.devesh.reviewmanagement;
 
-import dev.omkar.usermanagement.Entity.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

@@ -1,4 +1,4 @@
-package dev.omkar.usermanagement.dto;
+package dev.devesh.reviewmanagement.reviewmanagementdto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
